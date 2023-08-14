@@ -6,3 +6,4 @@
 | [PRIME1 - Prime Generator](https://www.spoj.com/problems/PRIME1/) | [PRIME1 - Prime Generator.cpp](https://github.com/SohagMollik/SPOJ-Online-Judge-Solution/blob/main/PRIME1%20-%20Prime%20Generator.cpp) |
 | [TEST - Life, the Universe, and Everything](https://www.spoj.com/problems/TEST/) | [TEST - Life, the Universe, and Everything.cpp](https://github.com/SohagMollik/SPOJ-Online-Judge-Solution/blob/main/TEST%20-%20Life%2C%20the%20Universe%2C%20and%20Everything.cpp) |
 | [LCMSUM - LCM Sum](https://www.spoj.com/problems/LCMSUM/) | [LCMSUM - LCM Sum.cpp](https://github.com/SohagMollik/SPOJ-Online-Judge-Solution/blob/main/LCMSUM%20-%20LCM%20Sum.cpp) |
+| [The last digit](https://www.spoj.com/problems/LASTDIG/) | [The last digit.cpp](https://github.com/SohagMollik/SPOJ-Online-Judge-Solution/blob/main/Solution/The%20last%20digit.cpp) |
